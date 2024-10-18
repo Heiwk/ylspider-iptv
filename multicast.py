@@ -21,7 +21,7 @@ connection_pool = mysql.connector.pooling.MySQLConnectionPool(
     pool_size=10,
     host='192.168.199.119',
     user='iptv',
-    password='iptv',
+    password='yulong',
     database='iptv'
 )
 
